@@ -1,4 +1,4 @@
-# 🍽️ Sales Forecasting — Fresh Analytics
+# Sales Forecasting — Fresh Analytics
 ### Predicting Item Demand Across Restaurants (2019–2021)
 
 **Author:** Ajaykanna E  
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Fresh Analytics operates a network of restaurants and needs to accurately forecast daily item demand to optimize staffing, inventory, and supply chain decisions.
 
@@ -15,7 +15,7 @@ This project walks through the **complete data science workflow** — from raw d
 
 ---
 
-## 📁 Dataset
+## Dataset
 
 Three CSV files are used in this project:
 
@@ -29,7 +29,7 @@ After merging, the final dataset contains **109,600 rows** spanning January 2019
 
 ---
 
-## 🗂️ Project Structure
+## Project Structure
 
 ```
 ├── Sales_Forecasting_Complete_final.ipynb   # Main notebook
@@ -41,7 +41,7 @@ After merging, the final dataset contains **109,600 rows** spanning January 2019
 
 ---
 
-## 🔍 Sections Covered
+## Sections Covered
 
 ### Section 1 — Preliminary Analysis
 - Imported and examined all three datasets
@@ -93,9 +93,9 @@ A second LSTM model trained on the **full series** (including seasonally-aware s
 | Model | Metric | Score |
 |-------|--------|-------|
 | Linear Regression | RMSE | High |
-| Random Forest | RMSE | Low ✅ |
-| XGBoost | RMSE | Low ✅ |
-| LSTM | MAPE | **10.55% (Good)** ✅ |
+| Random Forest | RMSE | Low  |
+| XGBoost | RMSE | Low  |
+| LSTM | MAPE | **10.55% (Good)** |
 
 ---
 
@@ -113,7 +113,7 @@ A second LSTM model trained on the **full series** (including seasonally-aware s
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1. **Clone the repository**
    ```bash
