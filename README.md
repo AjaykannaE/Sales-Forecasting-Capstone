@@ -37,6 +37,9 @@ After merging, the final dataset contains **109,600 rows** spanning January 2019
 ├── resturants.csv                           # Restaurant data
 └── README.md
 ```
+## Additional Resources
+
+This repository also includes a Project Summary and Interview Preparation Guide for learners who want to understand the concepts covered in this project.
 
 ---
 
