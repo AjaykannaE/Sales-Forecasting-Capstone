@@ -87,7 +87,7 @@ A second LSTM model trained on the **full series** (including seasonally-aware s
 
 ---
 
-## 📊 Model Performance Summary
+## Model Performance Summary
 
 | Model | Metric | Score |
 |-------|--------|-------|
@@ -116,8 +116,7 @@ A second LSTM model trained on the **full series** (including seasonally-aware s
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-   cd YOUR_REPO_NAME
+   git clone (https://github.com/AjaykannaE/Sales-Forecasting-Capstone)
    ```
 
 2. **Install dependencies**
