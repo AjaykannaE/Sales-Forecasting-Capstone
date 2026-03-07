@@ -2,8 +2,7 @@
 ### Predicting Item Demand Across Restaurants (2019–2021)
 
 **Author:** Ajaykanna E  
-**Instructor:** Pooja Sharma  
-**Type:** Capstone Project — Data Science & Machine Learning
+**Type:** Capstone Project — Artifical Intelligence Engineering
 
 ---
 
