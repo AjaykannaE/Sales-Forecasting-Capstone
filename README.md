@@ -98,7 +98,7 @@ A second LSTM model trained on the **full series** (including seasonally-aware s
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -135,15 +135,10 @@ A second LSTM model trained on the **full series** (including seasonally-aware s
 
 ---
 
-## 💡 Key Business Insights
+## Key Business Insights
 
 - **Bob's Diner** dominates the network — any operational decision based on aggregate data is effectively a decision about Bob's Diner.
 - **Friday staffing and inventory** should always be higher — it consistently has the highest sales across all three years.
 - **Q2 (April–June)** requires the most resources; plan promotions and bulk procurement accordingly.
 - The LSTM and ensemble ML models are accurate enough for **operational planning** (staffing, inventory ordering, supplier negotiations).
 
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
